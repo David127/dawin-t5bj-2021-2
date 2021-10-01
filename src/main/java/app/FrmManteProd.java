@@ -153,7 +153,7 @@ public class FrmManteProd extends JFrame {
 		} else {
 			System.out.println("Listado de Usuarios");
 			for (Usuario u : lstUsuarios) {
-				System.out.println(">>> " + u);
+				System.out.println(">>> " + u); 
 			}
 		}
 		
